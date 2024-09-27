@@ -1,5 +1,7 @@
 # GIZEM OZYILDIRIM - Data Analyst Portfolio
 Pleasanton, CA |ozyilgizem@gmail.com 
+
+
 Linkedin: https://www.linkedin.com/in/gizem-ozyildirim-95a35716a/
 
 
