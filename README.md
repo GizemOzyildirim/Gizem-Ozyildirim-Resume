@@ -1,5 +1,6 @@
 # GIZEM OZYILDIRIM - Data Analyst Portfolio
-Pleasanton, CA |ozyilgizem@gmail.com
+Pleasanton, CA |ozyilgizem@gmail.com 
+Linkedin: https://www.linkedin.com/in/gizem-ozyildirim-95a35716a/
 
 
 # SKILLS
@@ -58,7 +59,13 @@ Graduated with Honors Degree, 1st place in Technical Education Department
 
 # PROFESSIONAL EXPERIENCE
 
-## Graphic and Textile Design Consultant | Pleasanton, CA (2018 - Present)
+## University of Louisiana | Lafayette,LA (2024-Present)
+- Data Collection & Preprocessing: Gathering  data, cleaning missing values, and standardized format, query and compile data.
+- Model Building & Testing: Built regression models to predict future sales trends; tuned model parameters.
+- Insights & Reporting: Prepare concise reports to present data, delivering actionable insights for optimization.
+
+
+## Graphic and Textile Design Consultant | Pleasanton, CA (2018 - 2024)
 - Provided design consultancy services in graphic and textile design.
 - Utilized Adobe Creative Cloud for various design projects.
 
@@ -78,3 +85,6 @@ Graduated with Honors Degree, 1st place in Technical Education Department
 
 ## Turkiye Education Volunteers Foundation (TEGV) (Since 2011)
 - Volunteered to support educational initiatives and programs for children in Turkey.
+## Phi Theta Kappa 2018-2024
+- International College Honor Society, honor student.
+
