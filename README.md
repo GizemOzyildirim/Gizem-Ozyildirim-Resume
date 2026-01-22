@@ -42,9 +42,9 @@ Languages: Turkish (Native), English (C1), Spanish (A2)
   
 # EDUCATION
 
-## Georgia Institute of Technology | Atlanta, GA
+## California State University East Bay | Hayward, CA (August 2025 - May 2027)
 Master of Science in Analytics
-Admitted, starting in January 2025, Spring Semester
+
 
 ## De Anza College | Cupertino, CA (September 2021 - June 2024)
 Associate Degree, Database Development Practitioner
@@ -54,14 +54,11 @@ Associate Degree, Graphic and Interactive UI/UX Design (Double Major)
 Bachelor’s Degree, Computer Aided Design
 Graduated with 100% scholarship, Transferred degree
 
-## Gazi University | Ankara, Turkiye (2007 - 2009)
-Associate Degree, Technical Sciences
-Graduated with Honors Degree, 1st place in Technical Education Department
 
 
 # PROFESSIONAL EXPERIENCE
 
-## University of Louisiana | Lafayette,LA (2024-Present)
+## University of Louisiana | Lafayette,LA | Research Data Scientist (2024-2025)
 - Data Collection & Preprocessing: Gathering  data, cleaning missing values, and standardized format, query and compile data.
 - Model Building & Testing: Built regression models to predict future sales trends; tuned model parameters.
 - Insights & Reporting: Prepare concise reports to present data, delivering actionable insights for optimization.
