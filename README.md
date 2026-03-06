@@ -75,11 +75,6 @@ Graduated with 100% scholarship, Transferred degree
 - Assisted in the collection creation process, from concept to execution.
 - Developed custom collections for international brands.
 
-## Faruk Sarac Couture | Istanbul, Turkey | Executive Assistant | Designer Intern (2012 - 2013)
-- Participated in design and commercial sales processes.
-- Contributed to custom collections for high-profile clients and government uniforms.
-
-
 # VOLUNTEER EXPERIENCE
 
 ## Turkiye Education Volunteers Foundation (TEGV) (Since 2011)
