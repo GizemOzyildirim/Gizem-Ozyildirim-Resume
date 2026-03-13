@@ -43,7 +43,7 @@ Languages: Turkish (Native), English (C1), Spanish (A2)
 # EDUCATION
 
 ## California State University East Bay | Hayward, CA (August 2025 - May 2027)
-Master of Science in Analytics
+Master of Science in Statistics | Data Science Concentration
 
 
 ## De Anza College | Cupertino, CA (September 2021 - June 2024)
